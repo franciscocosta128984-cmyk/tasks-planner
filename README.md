@@ -1,16 +1,29 @@
-# React + Vite
+# Organizador Semanal de Tarefas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido como parte da disciplina de Programação Web para Front End.
 
-Currently, two official plugins are available:
+## Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Aplicação de gerenciamento de tarefas semanais desenvolvida com React + Vite. 
+O usuário pode adicionar, concluir e remover tarefas organizadas por dia da semana.
 
-## React Compiler
+## Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Visualizar tarefas por dia da semana
+- Adicionar novas tarefas com título, dia e prioridade
+- Marcar tarefas como concluídas ou pendentes
+- Remover tarefas da lista
+- Resumo dinâmico com total, concluídas e pendentes
 
-## Expanding the ESLint configuration
+## Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- CSS
+
+## Como executar
+
+1. Clone o repositório
+2. Instale as dependências: `npm install`
+3. Rode o projeto: `npm run dev`
+4. Acesse: `http://localhost:5173`
