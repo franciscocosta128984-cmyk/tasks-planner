@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Estudar React",
+    "day": "Segunda-feira",
+    "priority": "Alta",
+    "done": false
+  },
+  {
+    "id": 2,
+    "title": "Fazer exercícios",
+    "day": "Terça-feira",
+    "priority": "Média",
+    "done": false
+  },
+  {
+    "id": 3,
+    "title": "Ler um livro",
+    "day": "Quarta-feira",
+    "priority": "Baixa",
+    "done": true
+  }
+]
