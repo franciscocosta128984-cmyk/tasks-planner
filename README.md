@@ -5,7 +5,6 @@ Projeto desenvolvido como parte da disciplina de Programação Web para Front En
 ## Sobre o projeto
 
 Aplicação de gerenciamento de tarefas semanais desenvolvida com React + Vite. 
-O usuário pode adicionar, concluir e remover tarefas organizadas por dia da semana.
 
 ## Funcionalidades
 
